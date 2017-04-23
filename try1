@@ -1,0 +1,24 @@
+<html>
+
+<head>
+<title> Trying html </title>
+</head>
+
+
+<body>
+
+<h1> this is header 1 </h1>
+<h2> instead this is header 2 </h2>
+<h3> is header 3 too small? </h3>
+<h4> what about header 4? </h4>
+<h5> and header 5? LOL </h5>
+
+<p> My first paragraph and i don't know what to write </p>
+<p> In the second paragraph i will write "Usque tandem Catilina abutere patientiam nostram?". Just like a Lorem Ipsum but more boring. Also i am tryng to make this paragrph long, to see how it plays out. Byeeeeeeeeeeeee. </p>
+<p> I study at : </p>
+<a href="https://didattica.polito.it/"> Politecnico di Torino </a>
+
+</body>
+
+
+</html>
